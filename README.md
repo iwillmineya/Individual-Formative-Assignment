@@ -33,6 +33,16 @@ is hosted by github pages
 
 ![Full](images/full.JPG)
 
+## Attributions
+-bootstrap ~ responsive layout
+-imgages ~ royalty-free google images
+-favicon ~ flaticon
+-ai usage ~ copilot, grammar checking, suggestions to appeal
+
+## AI Reflection
+i used ai to support me through it, for example, getting the boxes close together, 
+suggestions to make the website appear prettier and to check my grammar
+
 
 Colour contrast tested with WebAIM Contrast Checker
 
