@@ -29,7 +29,7 @@ is hosted by github pages
 
 ![Cards](images/cards.JPG)
 
-![Intro](images/intro.JPG)
+![Intro](images/Intro.JPG)
 
 ![Full](images/full.JPG)
 
