@@ -13,6 +13,36 @@
             background: linear-gradient(to right, #c2e9fb, #a1c4fd);
         }
     </style>
+    <style>
+    /* Custom styling with media queries */
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    header, main, footer {
+      margin-bottom: 2rem;
+    }
+
+    .custom-section {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .custom-box {
+      flex: 1 1 300px;
+      background-color: #e0f7fa;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+
+    @media (max-width: 576px) {
+      .custom-box {
+        flex: 1 1 100%;
+      }
+    }
+  </style>
 </head>
 
 <body>
